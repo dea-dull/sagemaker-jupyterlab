@@ -1,0 +1,25 @@
+numpy>=1.23.5
+pillow>=9.0.0
+opencv-python-headless>=4.7.0.72
+typing-extensions>=4.4.0
+onnxruntime>=1.12.0
+backoff>=1.10.0
+concurrent-log-handler>=0.9.20
+Cython
+boto3==1.24.1
+# File and image validation
+python-magic>=0.4.24
+
+tf-keras
+
+# Pinecone integration
+pinecone
+
+# Environment and OS utilities
+python-dotenv>=0.21.0
+
+
+Werkzeug==2.2.2
+
+deepface
+
